@@ -1,0 +1,11 @@
+jade 模版引擎
+ejs 能写变量
+读取数据库信息 安装mysql-
+
+php连接数据库
+<% %>
+
+//devDependencies 生产依赖
+  //npm i multer -S
+  //     install  save
+  //生产依赖，开发依赖
